@@ -1,0 +1,5 @@
+{
+  "name": "MBO Rijnland Dashboard",
+  "description": "A modern, aesthetic student dashboard for MBO Rijnland featuring real-time schedule tracking, weather updates, focus timer, and task management.",
+  "requestFramePermissions": []
+}
